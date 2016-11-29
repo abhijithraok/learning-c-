@@ -18,6 +18,22 @@ namespace finding_prime
 
         }
         public static bool IsPrime(int number)
-        { return true; }
+        {
+            if (number< 1)
+            {
+                return false;
+
+            }
+            if (number == 2) { return true; }
+            for(int i = 3; i < number; i++)
+            {
+                if (number % i == 0)
+                {
+                    return false;
+                    
+                }
+            }
+            return true;
+        }
     }
 }
