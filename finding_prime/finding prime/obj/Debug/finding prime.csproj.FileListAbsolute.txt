@@ -1,0 +1,1 @@
+C:\Users\abhij\Documents\learning-c-\finding_prime\finding prime\bin\Debug\finding prime.exe.config
