@@ -10,7 +10,8 @@ namespace finding_prime
     {
         static void Main(string[] args)
         {
-
+            Console.WriteLine("please enter number ");
+            Console.ReadLine();
         }
     }
 }

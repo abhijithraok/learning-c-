@@ -1,1 +1,6 @@
 C:\Users\abhij\Documents\learning-c-\finding_prime\finding prime\bin\Debug\finding prime.exe.config
+C:\Users\abhij\Documents\learning-c-\finding_prime\finding prime\obj\Debug\finding prime.csprojResolveAssemblyReference.cache
+C:\Users\abhij\Documents\learning-c-\finding_prime\finding prime\bin\Debug\finding prime.exe
+C:\Users\abhij\Documents\learning-c-\finding_prime\finding prime\bin\Debug\finding prime.pdb
+C:\Users\abhij\Documents\learning-c-\finding_prime\finding prime\obj\Debug\finding prime.exe
+C:\Users\abhij\Documents\learning-c-\finding_prime\finding prime\obj\Debug\finding prime.pdb
