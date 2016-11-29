@@ -11,7 +11,11 @@ namespace finding_prime
         static void Main(string[] args)
         {
             Console.WriteLine("please enter number ");
+           String readInput=Console.ReadLine();
+            int readNumber=Int32.Parse(readInput);
+            Console.WriteLine(readNumber + 1);
             Console.ReadLine();
+
         }
     }
 }
